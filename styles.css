@@ -27,6 +27,11 @@ header{
     padding: 8px;
 }
 
+.logo:hover{
+    background-color: rgb(231, 73, 199);
+    transform: scale(1.1);
+}
+
 .nav{
     background-color: rgb(231, 73, 73);
     width: 60%;
